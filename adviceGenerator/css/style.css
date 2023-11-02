@@ -102,3 +102,15 @@ article {
   transition-duration: 0.1s;
   background-color: hsl(150deg 100% 84%);
 }
+
+@media (min-width: 320px) and (max-width: 560px) {
+  article {
+    width: calc(100% - 10%);
+  }
+}
+
+@media (max-width: 319px) {
+  article {
+    width: 288px;
+  }
+}
