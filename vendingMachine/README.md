@@ -3,7 +3,7 @@ https://vending-machine-coka.netlify.app/
 
 ## ⏰ 개발 기간
 - 23.03.20 (html, css 작성)
-- 23.04.27 (JavaScript 기능 추가)
+- 23.10.30 (JavaScript 기능 추가)
   
 ## 🖥️ 프로젝트 소개
 - 실제 자판기를 이용하듯 사용자가 입력한 금액으로 여러 종류의 콜라를 구매할 수 있습니다.
