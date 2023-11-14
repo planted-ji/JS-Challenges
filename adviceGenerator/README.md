@@ -1,4 +1,4 @@
-# 📝 명언 제조기
+# 📝 명언 출력기
 https://advice-generator-api-en.netlify.app/
 
 ## ⏰ 개발 기간
